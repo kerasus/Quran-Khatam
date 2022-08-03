@@ -147,7 +147,7 @@ module.exports = configure(function (ctx) {
       },
 
       manifest: {
-        name: 'Quasar App',
+        name: 'دارالقرآن خاتم',
         short_name: 'Quasar App',
         description: 'A Quasar Project',
         display: 'standalone',
